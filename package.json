@@ -1,8 +1,8 @@
 {
-  "name": "chartist-logscale",
+  "name": "ascom-chartist-logscale",
   "title": "Chartist.js",
   "description": "Simple, responsive charts",
-  "version": "0.12.0",
+  "version": "1.0.0",
   "author": "Gion Kunz",
   "homepage": "https://github.com/lebydev/chartist-js",
   "repository": {
